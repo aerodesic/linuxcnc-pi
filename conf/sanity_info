@@ -1,0 +1,4 @@
+SANITY_VERSION 1
+TMPDIR /home/go/linuxcnc-builder-20190329/linuxcnc-pi/tmp
+SSTATE_DIR /home/go/linuxcnc-builder-20190329/linuxcnc-pi/sstate-cache
+NATIVELSBSTRING ubuntu-18.04
