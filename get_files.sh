@@ -9,9 +9,9 @@ git clone -b ${POKY_VERSION} git://git.yoctoproject.org/meta-security
 git clone -b ${POKY_VERSION} git://git.yoctoproject.org/meta-raspberrypi
 cd ..
 git clone https://github.com/jumpnow/meta-rpi.git
-git clone ssh://git@github.com/IMT-CPAC/meta-aoextra.git
-git clone ssh://git@github.com/IMT-CPAC/meta-package-signing.git
-git clone ssh://git@github.com/IMT-CPAC/meta-linuxcnc.git
+git clone ssh://git@github.com/aerodesic/meta-aoextra.git
+git clone ssh://git@github.com/aerodesic/meta-package-signing.git
+git clone ssh://git@github.com/aerodesic/meta-linuxcnc.git
 git clone https://github.com/intel/luv-yocto.git
 # git clone https://github.com/Igalia/meta-webkit.git
 git clone https://github.com/rossburton/meta-printing.git
